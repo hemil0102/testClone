@@ -1,9 +1,2 @@
-# testClone 안녕하세요!
-우와아아아아아아아
-111111122222222
-111111
-3333333
-4444
-
-- Bug fixed
-
+# testClone
+- Hot fixed
